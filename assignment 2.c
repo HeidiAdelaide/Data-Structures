@@ -132,4 +132,4 @@ int main() {
 }
 
 
-This program creates a BST from the given array, deletes a node, prints the height of the BST, and prints the level and height of a specified node.
+
